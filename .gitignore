@@ -1,0 +1,22 @@
+# Environment & secrets
+.env
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS metadata
+.DS_Store
+
+# IDE / editor folders
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/secrets.toml
